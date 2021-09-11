@@ -57,6 +57,10 @@ header .mainLogin {
   color: #536976;
 }
 
+.card img {
+  padding: 15px 0 10px 0;
+}
+
 footer {
   background: #BBD2C5;
   /* fallback for old browsers */
