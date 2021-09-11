@@ -56,6 +56,12 @@ header .mainLogin {
   padding: 15px 40px 15px 40px;
 }
 
+@media (max-width: 575px) {
+  header .loginMinicart {
+    margin-bottom: 10px;
+  }
+}
+
 .card {
   -webkit-box-shadow: 0px 0px 70px rgba(102, 102, 102, 0.2);
           box-shadow: 0px 0px 70px rgba(102, 102, 102, 0.2);
